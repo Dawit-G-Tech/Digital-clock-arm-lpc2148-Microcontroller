@@ -44,6 +44,7 @@ This project implements a **Digital Clock with Alarm** using the ARM LPC2148 mic
 - **NPN Transistor** (Q1, e.g., 2N2222 for buzzer drive)
 
 Refer to the schematic image for exact wiring and connections.
+![photo_2025-06-13_11-09-35](https://github.com/user-attachments/assets/463b3ba6-5ee5-4185-93ba-d9cf40bfa280)
 
 ## Notes
 
